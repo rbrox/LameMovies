@@ -1,0 +1,61 @@
+body{
+    background-color: #212529;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+
+.top_nav{
+    background-color: #343A40;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.top_nav a{
+    color: #FFB703;
+    font-size: xx-large;
+    text-decoration: none;
+}
+
+.search_container{
+    float: right;
+    margin: 10px;
+}
+
+.search_container input{
+    background-color: #6C757D;
+    border-radius: 4px;
+    color: #fff;
+}
+
+.card{
+    background-color: #495057;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 7px;
+    max-height: 200px;
+    min-height: 200px;
+    max-width: 120px;
+}
+
+.card img{
+    float: left; 
+    max-height: 180px;
+    position: relative;
+}
+
+.card a{
+    color: #FFB703;
+    text-decoration: none;
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+}
